@@ -1,0 +1,17 @@
+[package]
+name = "object-controller-tracker"
+version = "0.1.0"
+authors = ["Emmanuel Lesueur <emmanuel@lesueur.name>"]
+edition = "2018"
+
+description = "Track object-controller pairs."
+readme = "README.md"
+
+homepage = "https://github.com/Emm54321/object-controller-tracker"
+repository = "https://github.com/Emm54321/object-controller-tracker.git"
+
+keywords = ["tracking"]
+
+license = "MIT/Apache2.0"
+
+[dependencies]
